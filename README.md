@@ -1,5 +1,8 @@
-# Zhuifengmu
-Some unofficial codes (just for fun)
+# ICE_File_Downloader
+ICE is a student system for students in XJTLU which is the college I was in. This scripts is mainly for those whose finals or midterms are closed and don't want to download studying materials one by one. 
+This script will get all links under your account and download all. 
+
+I didn't use any robust method here, since those who know how to use Python seldom struggle for exams.
 
 ## ICEAccess
 This is a brief program that is able to pack the *ICE* of XJTLUer and download one or all documents on it.
